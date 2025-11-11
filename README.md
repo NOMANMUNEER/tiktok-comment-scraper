@@ -34,7 +34,7 @@ python main.py
 
 You will be asked to enter a TikTok link or ID:
 
-[?] TikTok link > https://www.tiktok.com/@user/video/7302154645734984992
+[?] TikTok link > https://www.tiktok.com/@user/video/{ID}
 
 or just:
 
